@@ -2,7 +2,7 @@
 
 A simple and efficient **Stationery Supplies Management System** designed to help users and admins track, manage, and interact with stationery product inventory. This system streamlines ordering, viewing, sorting, and managing product data — suitable for small shops, offices, or academic institutions.
 
-> 📦 Built for effective **product ordering, quantity tracking**, and **stock monitoring**.
+📦 Built for effective **product ordering, quantity tracking**, and **stock monitoring**.
 
 ---
 
